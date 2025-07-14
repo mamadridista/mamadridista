@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**mamadridista/mamadridista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Mamad 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=F7F7F7&center=true&vCenter=true&width=380&lines=Back-end+Developer;Computer+Engineering+Student;Tech+Lover+%F0%9F%9A%80" />
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🎓 Computer Engineering Student  
+- 💻 Passionate about Back-end development with Node.js & ASP.NET Core  
+- 🌍 Currently exploring some exciting things
+
+---
+
+### ⚙️ Skills
+
+```txt
+Languages     : JavaScript, C#, SQL, Python (basic)
+Frameworks    : Node.js, ASP.NET Core
+Tools & DBs   : Git, SQL sever, MongoDB, VS Code
